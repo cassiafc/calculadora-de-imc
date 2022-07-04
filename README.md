@@ -6,7 +6,7 @@
 
 ## Descrição do projeto
 
-  Projeto de uma calculadora de imc como origem a parti do Flutter.
+  Projeto de uma calculadora de imc como origem a partir do Flutter.
 
   Aqui alguns recursos para voçê começar, caso esse seja seu primeiro 
   projeto Flutter.
@@ -19,4 +19,5 @@
 - HTML
 - Kotlin
 - Objective-C
+
   

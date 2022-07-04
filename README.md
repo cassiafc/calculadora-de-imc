@@ -1,4 +1,4 @@
-# calcular_imc
+# Calculadora_imc
 
 # Topicos
 - Descrição do projeto

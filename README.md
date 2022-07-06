@@ -1,5 +1,5 @@
 # Calculadora_imc
-
+![img1.png](assets/icons/img1.png)
 # Topicos
 - Descrição do projeto
 - Linguagens usadas

@@ -1,5 +1,9 @@
-# Calculadora_imc
-![img1.png](assets/icons/img1.png)
+<h1 align="center">Calculadora_imc</h1>
+
+<h1 align="center">
+  <img alt="calculadora" title="#NextLevelWeek" src="./assets/icons/img1.png"/>
+</h1>
+
 # Topicos
 - Descrição do projeto
 - Linguagens usadas
@@ -14,4 +18,3 @@
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 
-  
